@@ -1,0 +1,12 @@
+This is a document created using the VI text editor for implementing the "Branching" feature. After the completion of the document, it will be added to the repository. It also contains some names of football players.
+Thibaut Courtios
+Dani Carvajal
+Sergio Ramos
+Pepe
+Marcelo
+Toni Kroos
+Casemiro
+Luka Modric
+Marco Ascensio
+Karim Benzema
+Cristiano Ronaldo
